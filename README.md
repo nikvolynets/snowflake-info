@@ -13,6 +13,8 @@
   - Registration fee: $375 USD
   - Passing Score: 750 + Scaled Scoring from 0 - 1000
 * Sample practive exam: https://learn.snowflake.com/en/certifications/snowpro-practice-exams/
+  - Total Number of Questions: 40
+  - Registration fee: $50 USD
 
 ### Architecture
 

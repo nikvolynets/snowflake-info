@@ -1,7 +1,7 @@
 # Snowflake Info
 
-Snowlake Youtube tutorial: https://youtu.be/AR88dZG-hwo?si=ooKhbVR6JLn_2aOz
-Official Snowflake Docs & Guides: https://docs.snowflake.com/
+* Snowlake Youtube tutorial: https://youtu.be/AR88dZG-hwo?si=ooKhbVR6JLn_2aOz
+* Official Snowflake Docs & Guides: https://docs.snowflake.com/
 
 ### Certification:
 * SnowPro Core (Fundamentals): https://learn.snowflake.com/en/certifications/snowpro-core/
